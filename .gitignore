@@ -1,0 +1,23 @@
+# Credentials and private local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.git-credentials
+.netrc
+# Generated and workstation files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+node_modules/
+.vscode/
+.idea/
+.firecrawl/
+# Local implementation/verification records
+VERIFICATION.json
+docs/superpowers/
